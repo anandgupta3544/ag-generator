@@ -3,9 +3,6 @@
     "description": "Uuid Generator",
     "type": "library",
     "license": "MIT",
-    "require": {
-        "anand/generator": "^1.0"
-    },
     "minimum-stability": "dev",
     "prefer-stable": true,
     "autoload": {
@@ -23,5 +20,13 @@
             "name": "Anand Gupta",
             "email": "anandgupta3544@gmail.com"
         }
-    ]
+    ],
+    "require": {
+        "anand/generator": "dev-master"
+    },
+    "keywords": [
+        "uuid",
+        "generator"
+    ],
+    "homepage": "https://github.com/anandgupta3544/ag-generator"
 }
