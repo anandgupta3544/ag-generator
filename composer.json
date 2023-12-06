@@ -1,0 +1,23 @@
+{
+    "name": "anand/generator",
+    "description": "Uuid Generator",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AG\\Generator\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "AG\\Generator\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anand Gupta",
+            "email": "anandgupta3544@gmail.com"
+        }
+    ]
+}
